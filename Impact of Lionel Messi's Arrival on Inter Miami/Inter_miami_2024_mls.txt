@@ -1,0 +1,38 @@
+Date	Time	Round	Day	Venue	Result	GF	GA	Opponent	xG	xGA	Poss	Attendance	Captain	Formation	Opp Formation	Referee	Match Report	Notes
+2024-02-21	20:00	Regular Season	Wed	Home	W	2	0	Real Salt Lake	1.4	0.8	55	21,137	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-02-25	18:00 (21:00)	Regular Season	Sun	Away	D	1	1	LA Galaxy	0.6	3.2	63	27,642	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-03-02	16:30	Regular Season	Sat	Home	W	5	0	Orlando City	2.8	0.8	47	21,352	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-03-10	17:00	Regular Season	Sun	Home	L	2	3	CF Montréal	2.7	2.0	60	21,212	Drake Callender	3-5-2	3-4-3		Match Report	
+2024-03-16	14:00	Regular Season	Sat	Away	W	3	1	D.C. United	2.3	1.4	52	19,365	Drake Callender	4-3-3	4-1-3-2		Match Report	
+2024-03-23	14:00	Regular Season	Sat	Away	L	0	4	NY Red Bulls	0.3	1.2	69	25,219	Sergio Busquets	3-5-2	4-4-2		Match Report	
+2024-03-30	19:30	Regular Season	Sat	Home	D	1	1	NYCFC	2.1	1.1	56	21,550	Drake Callender	4-3-3	3-4-3		Match Report	
+2024-04-06	19:30	Regular Season	Sat	Home	D	2	2	Colorado Rapids	1.0	1.2	58	20,868	Drake Callender	4-1-4-1	4-2-3-1		Match Report	
+2024-04-13	19:30 (20:30)	Regular Season	Sat	Away	W	3	2	Sporting KC	0.9	0.6	59	72,610	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-04-20	19:30	Regular Season	Sat	Home	W	3	1	Nashville SC	2.6	2.4	52	21,398	Lionel Messi	4-3-3	3-5-2		Match Report	
+2024-04-27	19:30	Regular Season	Sat	Away	W	4	1	NE Revolution	2.8	0.4	55	65,612	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-05-04	19:30	Regular Season	Sat	Home	W	6	2	NY Red Bulls	2.8	1.5	58	21,488	Lionel Messi	4-3-3	4-4-2		Match Report	
+2024-05-11	19:30	Regular Season	Sat	Away	W	3	2	CF Montréal	1.2	1.3	47	19,619	Lionel Messi	4-4-2	3-4-3		Match Report	
+2024-05-15	19:30	Regular Season	Wed	Away	D	0	0	Orlando City	0.6	0.7	58	25,046	Drake Callender	4-3-3	3-5-2		Match Report	
+2024-05-18	19:30	Regular Season	Sat	Home	W	1	0	D.C. United	1.1	1.1	66	21,318	Lionel Messi	4-3-3	5-3-2		Match Report	
+2024-05-25	19:30 (22:30)	Regular Season	Sat	Away	W	2	1	Vancouver W'caps	1.3	2.2	49	51,035	Drake Callender	4-3-3	3-4-3		Match Report	
+2024-05-29	19:30	Regular Season	Wed	Home	L	1	3	Atlanta Utd	0.7	3.5	61	21,326	Lionel Messi	4-3-3	3-4-3		Match Report	
+2024-06-01	19:30	Regular Season	Sat	Home	D	3	3	St. Louis City	2.6	1.6	68	20,793	Lionel Messi	4-3-3	4-2-3-1		Match Report	
+2024-06-15	19:30	Regular Season	Sat	Away	W	2	1	Philadelphia Union	1.2	1.9	57	19,513	Drake Callender	4-3-3	4-1-2-1-2		Match Report	
+2024-06-19	19:30	Regular Season	Wed	Home	W	2	1	Columbus Crew	1.1	1.6	33	19,939	Drake Callender	4-3-3	3-4-3		Match Report	
+2024-06-29	19:30 (20:30)	Regular Season	Sat	Away	W	2	1	Nashville SC	0.9	1.4	48	30,109	Drake Callender	4-2-3-1	4-2-3-1		Match Report	
+2024-07-03	19:30	Regular Season	Wed	Away	W	2	1	Charlotte	1.7	1.5	52	47,218	Drake Callender	4-1-4-1	4-2-3-1		Match Report	
+2024-07-06	19:30	Regular Season	Sat	Away	L	1	6	FC Cincinnati	1.2	3.7	46	25,513	Drake Callender	4-3-3	3-4-3		Match Report	
+2024-07-17	19:30	Regular Season	Wed	Home	W	3	1	Toronto FC	1.4	0.8	47	20,120	Drake Callender	4-3-3	4-4-2	Jair Marrufo	Match Report	
+2024-07-20	19:30	Regular Season	Sat	Home	W	2	1	Chicago Fire	2.3	0.7	49	20,318	Drake Callender	4-3-3	4-4-2	Marcos de Oliveira	Match Report	
+2024-08-24	19:30	Regular Season	Sat	Home	W	2	0	FC Cincinnati	0.5	1.4	42	20,106	Drake Callender	3-4-3	3-4-3		Match Report	
+2024-08-31	19:30 (20:30)	Regular Season	Sat	Away	W	4	1	Chicago Fire	2.2	1.4	49	55,385	Drake Callender	3-4-3	4-1-2-1-2	Pierre-Luc Lauzière	Match Report	
+2024-09-14	19:30	Regular Season	Sat	Home	W	3	1	Philadelphia Union	1.0	1.9	63	20,915	Lionel Messi	4-2-3-1	4-1-2-1-2	Boiko Serhii	Match Report	
+2024-09-18	19:30	Regular Season	Wed	Away	D	2	2	Atlanta Utd	1.8	2.1	52	67,795	Drake Callender	4-3-3	4-3-3	R. Mendoza	Match Report	
+2024-09-21	14:00	Regular Season	Sat	Away	D	1	1	NYCFC	0.8	1.1	53	44,738	Lionel Messi	4-4-2	4-2-3-1	Jon Freemon	Match Report	
+2024-09-28	19:30	Regular Season	Sat	Home	D	1	1	Charlotte	3.0	1.3	60	21,374	Lionel Messi	4-4-2	4-4-2	Ramy Touchan	Match Report	
+2024-10-02	19:45	Regular Season	Wed	Away	W	3	2	Columbus Crew	1.2	1.9	52	20,815	Lionel Messi	4-3-3	3-4-3	Drew Fischer	Match Report	
+2024-10-05	16:00	Regular Season	Sat	Away	W	1	0	Toronto FC	0.3	0.9	56	30,217	Leonardo Campana	3-4-3	3-5-2	Joe Dickerson	Match Report	
+2024-10-19	18:00	Regular Season	Sat	Home	W	6	2	NE Revolution	3.6	2.2	69	21,429	Drake Callender	4-3-3	4-2-3-1	Alexis Da Silva	Match Report	
+2024-10-25	20:30	Round One	Fri	Home	W	2	1	Atlanta Utd	3.3	1.0	65	20,673	Drake Callender	4-3-3	4-2-3-1	Allen Chapman	Match Report	
+2024-11-02	19:00	Round One	Sat	Away	L	1	2	Atlanta Utd	1.5	1.4	58	68,455	Lionel Messi	3-4-3	3-5-2	Rubiel Vázquez	Match Report	
+2024-11-09	20:00	Round One	Sat	Home	L	2	3	Atlanta Utd	2.8	1.9	64	20,813	Lionel Messi	4-3-3	3-5-2	Lukasz Szpala	Match Report	
