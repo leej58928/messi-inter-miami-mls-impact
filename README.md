@@ -27,6 +27,8 @@ The analysis follows a structured, case-study approach:
 - Goals per match increased steadily following Messi’s arrival.
 - Improvements in attacking output translated into higher points per match, indicating that performance gains led to tangible competitive success.
 
+As a robustness check, a supplementary analysis of matches where Messi served as captain shows even stronger on-field performance, reinforcing the main conclusions.
+
 ### Fan Demand
 - Average attendance surged immediately after Messi’s arrival.
 - While attendance moderated in subsequent seasons, it remained structurally higher than the pre-Messi baseline, suggesting sustained fan interest beyond initial hype.
