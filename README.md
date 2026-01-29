@@ -58,3 +58,26 @@ While centered on Inter Miami and Lionel Messi, the findings help explain why ML
 
 ## Next Steps
 Future extensions could compare similar high-profile signings across other MLS teams or incorporate media, sponsorship, and broadcast metrics to further quantify league-wide commercial impact.
+
+## Key Insights & Actions
+
+**Insight 1**  
+Attendance and revenue indicators increased significantly following Messi’s transfer.
+
+**Implication**  
+Star player acquisitions can materially shift commercial performance.
+
+**Action**  
+Teams should evaluate player investments not only in sporting terms but also in revenue impact.
+
+---
+
+**Insight 2**  
+Performance metrics and fan engagement moved in parallel.
+
+**Implication**  
+Competitive success amplifies commercial returns.
+
+**Action**  
+Clubs should align analytics strategy across sporting and business operations.
+
