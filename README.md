@@ -1,121 +1,142 @@
-# MLS Business Impact Analysis: Lionel Messi & Inter Miami
+# The Impact of Lionel Messi’s Arrival on Inter Miami  
+## A Data-Driven Case Study on Performance & Fan Demand in MLS
 
-## Project Overview
+## Overview
 
-This project quantifies the business and performance impact of Lionel Messi’s transfer to Inter Miami using match-level Major League Soccer (MLS) data.  
-The objective is to measure how a superstar acquisition influences attendance, on-field performance, and estimated revenue, and to translate those effects into strategic decision insights.
+This project evaluates how Lionel Messi’s arrival transformed Inter Miami’s on-field performance and commercial outcomes in Major League Soccer.
 
-Rather than focusing purely on sports performance, this analysis treats player acquisition as a commercial investment and evaluates its measurable business consequences.
+Using match-level data from the 2023–2025 MLS seasons, the analysis measures changes in:
+
+- competitive performance
+- attacking output
+- fan attendance
+- estimated matchday revenue
+
+The project reframes a player transfer as a business investment decision and quantifies its return using data.
 
 ---
 
 ## Business Problem
 
-Professional sports organizations invest heavily in star players, but the financial justification is rarely quantified in public-facing analysis.
+Professional sports organizations invest heavily in superstar players, but the financial and operational impact of those investments is rarely measured rigorously.
 
-The core question:
+This analysis asks:
 
-**Can a single player acquisition materially change both sporting outcomes and business performance?**
+**Did Messi’s arrival generate measurable competitive and commercial value for Inter Miami?**
 
-This project examines attendance, match results, and revenue proxies before and after Messi’s arrival to estimate the scale of impact.
-
----
-
-## Data
-
-The dataset contains match-level MLS data across multiple seasons, including:
-
-- match results and performance statistics
-- attendance figures
-- expected goals (xG) metrics
-- home vs away segmentation
-
-These variables allow both sporting and commercial evaluation.
+Rather than focusing only on sports metrics, the project connects performance improvements to revenue proxies and fan demand.
 
 ---
 
-## Analytical Approach
+## Methodology
 
-### 1. Baseline construction
+The analysis follows a structured comparison framework:
 
-I built pre-transfer baselines for Inter Miami’s performance and attendance to establish expected trends without Messi.
+1. Build a pre-transfer baseline (Before Messi – early 2023)
+2. Measure short-term effects (Messi Adaptation phase)
+3. Evaluate sustained impact (2024–2025 Messi Era)
+4. Estimate revenue impact using attendance-based proxies
 
-This prevents overstating effects caused by schedule variation or seasonality.
+Key metrics analyzed:
 
----
+- goals per match
+- points per match
+- expected goals (xG)
+- attendance
+- estimated matchday revenue
 
-### 2. Pre vs post comparison
-
-Key performance indicators were compared before and after Messi’s arrival:
-
-- goals and expected goals
-- match outcomes
-- attendance levels
-
-This isolates structural shifts rather than one-off spikes.
-
----
-
-### 3. Revenue proxy estimation
-
-Attendance uplift was translated into estimated matchday revenue using conservative and optimistic ticket price scenarios.
-
-This provides a range-based business estimate rather than a single speculative number.
+All results are aggregated by defined performance periods to avoid noise from individual matches.
 
 ---
 
-## Results
+## Key Findings
 
-The analysis shows:
+### On-field performance
 
-- Significant attendance uplift following Messi’s arrival
-- Measurable improvement in attacking performance metrics
-- Revenue potential increase aligned with attendance growth
-- Sustained engagement rather than short-lived novelty spikes
+- Goals per match increased steadily after Messi’s arrival
+- Points per match improved across all post-transfer periods
+- Attacking efficiency remained structurally higher in subsequent seasons
 
-The impact is both sporting and commercial.
+### Fan demand
+
+- Attendance spiked immediately after Messi joined
+- Demand remained significantly above the pre-transfer baseline
+- The effect transitioned from hype-driven to sustained engagement
+
+### Estimated revenue impact
+
+Under conservative assumptions:
+
+- average ticket price = $40
+- 17 regular season home matches
+
+Post-Messi attendance corresponds to an estimated:
+
+**$4–9 million in incremental matchday revenue per season**
+
+This suggests that the transfer created meaningful commercial upside in addition to sporting gains.
 
 ---
 
-## Key Insights & Actions
+## Business Insights & Actions
 
-### Insight 1 — Superstar acquisitions shift both performance and revenue
+Messi’s signing functioned as both a competitive upgrade and a revenue-generating asset.
 
-Messi’s arrival correlated with improved match metrics and higher attendance.
+Organizations should evaluate high-profile acquisitions using integrated analytics that combine:
+
+- performance metrics
+- customer engagement
+- financial modeling
+
+Short-term hype converted into sustained fan demand, implying long-term marketing and brand expansion opportunities.
+
+---
+
+## Strategic Insights & Recommended Actions
+
+The analysis suggests that Messi’s signing created both immediate and durable commercial leverage. Rather than treating this effect as a one-time spike, the club can actively convert it into long-term strategic value.
+
+**Insight 1 — Performance drives sustained demand**  
+Improved attacking output correlates with elevated attendance beyond the initial hype period.
 
 **Action:**  
-Clubs should evaluate elite player investments using integrated performance + revenue frameworks rather than treating sporting and commercial decisions separately.
+Invest in squad support and tactical continuity to maintain offensive performance, protecting long-term fan engagement and revenue stability.
 
 ---
 
-### Insight 2 — Engagement uplift persists beyond novelty
-
-Attendance increases were not limited to immediate post-transfer matches.
+**Insight 2 — Early hype transitions into brand equity**  
+The largest revenue jump occurred during the adaptation phase, but attendance remains structurally higher than the pre-Messi baseline.
 
 **Action:**  
-Organizations should design long-term marketing strategies to capitalize on sustained attention rather than short-term promotion cycles.
+Leverage the Messi era to expand international marketing, streaming partnerships, and merchandise channels while fan demand is elevated.
 
 ---
 
-### Insight 3 — Revenue leverage amplifies performance investment
-
-Improved performance creates commercial multipliers through fan engagement.
+**Insight 3 — Superstar impact is measurable ROI**  
+Attendance-based revenue proxies indicate multi-million-dollar seasonal upside.
 
 **Action:**  
-Align analytics across sporting and business departments to maximize cross-functional value.
+Use similar data-driven frameworks when evaluating future marquee signings, sponsorship investments, or expansion strategies.
 
 ---
 
-## Business Impact
+Taken together, these findings support treating elite player acquisitions not only as sporting decisions but as capital investments with quantifiable returns.
 
-This framework demonstrates how sports analytics can support executive decision-making by linking performance metrics with revenue modeling.
 
-It highlights how data-driven evaluation can guide player acquisition strategy.
+---
+
+## Limitations
+
+- Revenue estimates rely on attendance proxies rather than internal financial data
+- Ticket price assumptions are simplified
+- Findings are based on a single case study
+
+Results indicate magnitude and direction rather than exact financial values.
 
 ---
 
 ## Tools & Skills Demonstrated
 
-Python • Pandas • Data visualization  
-Pre/post comparative analytics  
-Revenue modeling • Sports business analytics
+Python • Pandas • Data Cleaning  
+Time-Series Comparison • Revenue Modeling  
+Sports Analytics • Business Impact Analysis
