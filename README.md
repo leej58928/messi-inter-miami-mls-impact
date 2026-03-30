@@ -66,15 +66,22 @@ Did Messi’s arrival generate measurable competitive and commercial value for I
 
 ### On-Field Performance
 
-- Goals per match increased consistently across all periods  
+- Goals per match increased consistently across all periods
+<img width="820" height="417" alt="image" src="https://github.com/user-attachments/assets/790b03aa-25de-4ba3-b6df-36f8b18a9ac7" />
+
 - Points per match improved significantly after Messi’s arrival  
+<img width="805" height="429" alt="image" src="https://github.com/user-attachments/assets/7b23812c-e60e-4ceb-85b2-1ae0b60f8901" />
+
 - Attacking performance remained structurally higher beyond the initial phase  
 
 ---
 
 ### Fan Demand
 
-- Attendance spiked immediately after Messi joined  
+- Attendance spiked immediately after Messi joined
+<img width="722" height="423" alt="image" src="https://github.com/user-attachments/assets/e7413a14-d1b7-4c11-ad03-968744885821" />
+This indicates that initial hype transitioned into sustained fan demand rather than a short-term effect.
+
 - Demand remained well above the pre-transfer baseline  
 - The effect transitioned from short-term hype to sustained engagement  
 
