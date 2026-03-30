@@ -67,7 +67,7 @@ Did Messi’s arrival generate measurable competitive and commercial value for I
 ### On-Field Performance
 
 - Goals per match increased consistently across all periods
-<img width="820" height="417" alt="image" src="https://github.com/user-attachments/assets/790b03aa-25de-4ba3-b6df-36f8b18a9ac7" />
+<img width="797" height="438" alt="image" src="https://github.com/user-attachments/assets/69c9e50d-20c9-4ff1-8f6d-9fc5ec7c4b6b" />
 
 - Points per match improved significantly after Messi’s arrival  
 <img width="805" height="429" alt="image" src="https://github.com/user-attachments/assets/7b23812c-e60e-4ceb-85b2-1ae0b60f8901" />
